@@ -12,5 +12,7 @@ namespace SchoolResitrationDtos
         public string SchoolName { get; set; }
         public string SchoolAddress { get; set; }
         public int SchoolContect { get; set; }
+
+
     }
 }

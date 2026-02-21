@@ -23,6 +23,8 @@ namespace SchoolManagementBissuness.SchoolProfile
            Agar aap AddAutoMapper(typeof(Program)) ka use karte hain, toh AutoMapper ko kisi specific profile ki information nahi milti, aur wo default behavior follow karta hai jo kabhi-kabhi mappings detect nahi kar pata.
              */
 
+
+
         }
     }
 }

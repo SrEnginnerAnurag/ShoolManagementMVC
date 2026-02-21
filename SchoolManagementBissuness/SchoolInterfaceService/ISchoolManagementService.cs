@@ -15,5 +15,6 @@ namespace SchoolManagementBissuness.SchoolInterfaceService
 
         Task UpdataData(int Id , SchoolManagementModelDTO schoolManagementModelDTO);
         Task DeleteData(int Id);
+
     }
 }

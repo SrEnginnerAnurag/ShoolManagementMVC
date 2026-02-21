@@ -14,6 +14,8 @@ namespace SchoolResitrationModel.SchoolDbContext
             
         }
 
+
+
         public DbSet<SchoolManagementModel> SchoolTAble { get; set; }       
     }
 }
